@@ -1,0 +1,29 @@
+
+
+.cajas{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    text-align:center;
+    
+    
+    
+}
+
+.caja1{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.nuevoDiv {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+  }
